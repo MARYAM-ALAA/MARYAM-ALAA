@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam+Alaa!+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%94%97;Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" /></p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U1MTJsZjdjcmNjcWJvejFkb3FzdmZ5dWxlYWRkaTlmZWJvM3RoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PHWihPgwg9tT2/giphy.gif" alt="Buttercup GIF" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l3YWw1Nzd6dHZpYmJvZjJrZml3enhmZmk0ZDluYjNsb2F4aGs2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rtuReiKtOESic/giphy.gif" alt="Buttercup GIF" width="300"/>
 </p>
 
 <div align="center">
@@ -88,4 +88,3 @@
 
 - 🕹 **Game Data Scraper** – Web crawler for game information  
   Python • [Repo](https://github.com/MARYAM-ALAA/Game_Website_Scrapped_Data)
-

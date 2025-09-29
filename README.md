@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam+Alaa!+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%94%97;Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam+Alaa!+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%94%97;Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" /></p>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnMHlzMzIzeDdqd3RpeGp4ZHpmcmY1ZnVxdTQ3bGNxYXJwN3FtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGks9UEQ5Mi3mXm/giphy.gif" alt="Buttercup Banner" width="800"/>
@@ -7,7 +7,7 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/MARYAM-ALAA?style=social&label=Follow)](https://github.com/MARYAM-ALAA)  
-![Profile views](https://komarev.com/ghpvc/?username=MARYAM-ALAA&style=flat&label=Views&color=8A2BE2)
+![Profile views](https://komarev.com/ghpvc/?username=MARYAM-ALAA&style=flat&label=Views&color=FFD700)
 
 </div>
 
@@ -30,11 +30,10 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
 
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/maryam-alaa204/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20me-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:6maryam611@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:maryamahmedb17@gmail.com)
 
 </div>
 
@@ -61,17 +60,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MARYAM-ALAA&show_icons=true&title_color=8A2BE2&icon_color=9370DB&text_color=ffffff&bg_color=0d1117&border_color=9370DB&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MARYAM-ALAA&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700&hide_border=true&include_all_commits=true&count_private=true" alt="Maryam's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARYAM-ALAA&layout=compact&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117&border_color=9370DB&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARYAM-ALAA&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700&hide_border=true&langs_count=8" alt="Maryam's Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MARYAM-ALAA&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9370DB&sideLabels=8A2BE2&dates=cccccc&border=9370DB&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=MARYAM-ALAA&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFD700&sideLabels=FFD700&dates=cccccc&border=FFD700&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---

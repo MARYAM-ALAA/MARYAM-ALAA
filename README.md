@@ -28,6 +28,7 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
 
 
 <div align="center">

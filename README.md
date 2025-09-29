@@ -45,14 +45,14 @@
 
 <table>
   <tr>
-    <td>![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python&logoColor=black)</td>
-    <td>![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black)</td>
-    <td>![PyTorch](https://img.shields.io/badge/-PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=black)</td>
+    <td><img src="https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python&logoColor=black"></td>
+    <td><img src="https://img.shields.io/badge/-TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=black"></td>
+    <td><img src="https://img.shields.io/badge/-PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=black"></td>
   </tr>
   <tr>
-    <td>![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=black)</td>
-    <td>![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=black)</td>
-    <td>![Git](https://img.shields.io/badge/-Git-FFD700?style=for-the-badge&logo=git&logoColor=black)</td>
+    <td><img src="https://img.shields.io/badge/-Machine%20Learning-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=black"></td>
+    <td><img src="https://img.shields.io/badge/-Computer%20Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=black"></td>
+    <td><img src="https://img.shields.io/badge/-Git-FFD700?style=for-the-badge&logo=git&logoColor=black"></td>
   </tr>
 </table>
 

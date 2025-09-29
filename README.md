@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam+Alaa!+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%94%97;Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" /></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="AI GIF" width="500"/>
+  <img src="https://i.ibb.co/6WQ6M7w/ai-pattern-banner.gif" alt="AI Pattern Banner" width="600"/>
 </p>
 
 

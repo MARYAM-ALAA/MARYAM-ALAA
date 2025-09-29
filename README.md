@@ -1,8 +1,9 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam+Alaa!+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%94%97;Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" /></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/0fj4-jP5PB0AAAAC/buttercup-powerpuff.gif" alt="Buttercup GIF" width="300"/>
+  <img src="https://media.tenor.com/_i7i2jBqkWcAAAAi/powerpuff-girls-buttercup.gif" alt="Buttercup GIF" width="300"/>
 </p>
+
 
 <div align="center">
 

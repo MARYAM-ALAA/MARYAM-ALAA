@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maryam+Alaa!+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%94%97;Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" /></p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnMHlzMzIzeDdqd3RpeGp4ZHpmcmY1ZnVxdTQ3bGNxYXJwN3FtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGks9UEQ5Mi3mXm/giphy.gif" alt="Buttercup GIF" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnMHlzMzIzeDdqd3RpeGp4ZHpmcmY1ZnVxdTQ3bGNxYXJwN3FtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGks9UEQ5Mi3mXm/giphy.gif" alt="Buttercup Banner" width="800"/>
 </p>
 
 <div align="center">

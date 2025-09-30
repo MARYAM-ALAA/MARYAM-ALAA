@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/MARYAM-ALAA?style=social&label=Follow)](https://github.com/MARYAM-ALAA)  
+
 ![Profile views](https://komarev.com/ghpvc/?username=MARYAM-ALAA&style=flat&label=Views&color=FFD700)
 
 </div>
